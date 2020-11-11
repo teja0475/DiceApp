@@ -6,5 +6,6 @@ case $diceNum in
 	2) echo "Second face";;
 	3) echo "Third  face";;
 	4) echo "Fourth face";;
+	5) echo "Fivth face";;
 	*)echo "Invalid"
 esac
